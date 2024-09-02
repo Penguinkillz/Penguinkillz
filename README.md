@@ -1,5 +1,4 @@
-- @Penguinkillz 
-- I’m interested in 🎮 and 🐧
+- hi , i am something
 
 <!---
 Penguinkillz/Penguinkillz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
